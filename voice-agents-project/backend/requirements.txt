@@ -1,0 +1,15 @@
+# FastAPI Backend Dependencies
+fastapi
+uvicorn[standard]
+python-dotenv
+pydantic
+websockets
+
+# Google ADK - Agent Development Kit (includes google-genai)
+google-adk
+
+# Audio Processing
+numpy
+
+# Async Support
+aiofiles
